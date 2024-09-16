@@ -18,7 +18,15 @@ Data Science with Python including necessary statistics concepts and implementat
 - 2.3 Data Aggregation and Grouping 
 
 # 3 Data Visualization and Dataset Analysis
-3.1. Data Visualization with Matplotlib
-3.2. Data Visualization with seaborn
-3.3. Analyzing and Visualizing Time-based Dataset
-   
+- 3.1 Data Visualization with Matplotlib
+    - Line plots, scatter plots, bar charts, histograms
+    - Customizing plots (colors, labels, titles)
+    - Subplots and figure management
+- 3.2 Data Visualization with seaborn
+    - Distribution plots (kde, histplot)
+    - Categorical plots (barplot, countplot)
+    - Regression plots (regplot, lmplot)
+    - Heatmaps and clustermaps
+- 3.3 Analyzing and Visualizing Time-based Dataset
+
+# 4 
