@@ -29,4 +29,10 @@ Data Science with Python including necessary statistics concepts and implementat
     - Heatmaps and clustermaps
 - 3.3 Analyzing and Visualizing Time-based Dataset
 
-# 4 
+# 4 Exploratory Data Analysis
+- 4.1 **EDA Techniques:**
+    - Summary statistics
+    - Correlation analysis
+    - Distribution analysis
+    - Outlier detection
+    - Feature engineering
