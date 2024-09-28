@@ -45,3 +45,4 @@ Data Science with Python including necessary statistics concepts and implementat
   - Temporal (Cyclical feature encoding, calendar day, week, month)
   - Past Features ( Lag features, Window features)
   - Trend and Seasonality (time variable, changepoint, step changes)
+    - Fourier series, seasonal dummies, seasonal lags)
