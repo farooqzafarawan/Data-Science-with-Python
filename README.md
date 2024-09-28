@@ -35,4 +35,13 @@ Data Science with Python including necessary statistics concepts and implementat
     - Correlation analysis
     - Distribution analysis
     - Outlier detection
-    - Feature engineering
+
+# Feature Engineering and Selection 
+- Feature Engineering for Time Series Forecasting 
+  - Imputation (Forward fill and backfill)
+  - Outliers ( Identify, Dummy variable)
+  - Transformation ((Log, Box Cox)
+  - Encoding (One hot, Target mean, integer)
+  - Temporal (Cyclical feature encoding, calendar day, week, month)
+  - Past Features ( Lag features, Window features)
+  - Trend and Seasonality (time variable, changepoint, step changes)
