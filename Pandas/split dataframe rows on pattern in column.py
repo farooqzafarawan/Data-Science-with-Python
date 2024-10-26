@@ -32,4 +32,4 @@ df_final = split_rows_if_newline(df, 'ClaimName')
 print(df_final)
 ```
 
-This code checks for the presence of a newline character in the `ClaimName` column and only splits those rows while keeping the others as they are. Give it a whirl and let me know how it works out!
+#This code checks for the presence of a newline character in the `ClaimName` column and only splits those rows while keeping the others as they are. Give it a whirl and let me know how it works out!
